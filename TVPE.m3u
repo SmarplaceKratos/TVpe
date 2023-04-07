@@ -5,3 +5,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png" group-title="General",X TV (CartoonNetworkLA)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg -id="AnimeZone" tvg-logo="https://pbs.twimg.com/profile_images/1400369687154855940/dHaOqXtz_400x400.jpg" group-title="General",X TV (Anime Zone)
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/200px-Top_TV_logo.svg.png?20130212135704" group-title="General",Top FM TV (Atalaya)
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
